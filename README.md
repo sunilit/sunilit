@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sunil Kumar
-- 👀 I’m interested in Healthcare Cyber-Physical Systems, Formal Verification, Medical Imaging, Deep Learning, and Machine Learning
+- 👀 I’m interested in Healthcare Cyber-Physical Systems, Formal Verification, Medical Imaging, Deep Learning, Machine Learning, DNA Protein Arrays, Cancer Research, HPC and IoT.
 - 🌱 I’m currently enrolled Research Scholar in the Dept of CSE @National Institute of Technology Karnataka, Surathkal
 - 💞️ I’m looking to collaborate on Research Areas
 - 📫 How to reach me ... Room No - 506, Dr. B.R.B Lab, 5th Floor for right-wing, Department of CSE @National Institute of Technology Karnataka, Surathkal

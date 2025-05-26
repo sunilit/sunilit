@@ -1,5 +1,5 @@
 # 💫 About Me: 👋 Hi, I’m Sunil Kumar
-**A passionate Researcher || AI Engineer || Software Developer from India 💞️**
+**🔬 Passionate Researcher || 🤖 AI Enthusiast || 💻 Software Developer from India 💞️**
 
 Email Me 👉 ✉️ sunilit.iimtgn@gmail.com, sunilk.217cs010@nitk.edu.in For Collaboration/Project.
 

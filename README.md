@@ -1,5 +1,13 @@
-# 💫 About Me:
-👋 Hi, I’m Sunil Kumar<br>👀 I’m interested in healthcare cyber-physical systems, formal verification, medical imaging, deep learning, machine learning, DNA protein arrays, cancer research, HPC, and IoT.<br>🌱 I’m currently enrolled Research Scholar in the Dept of CSE National Institute of Technology Karnataka, Surathkal<br>💞️ I’m looking to collaborate on Research Areas<br>📫 How to reach me ... Room No. 506, Dr. B.R.B Lab, 5th Floor for right-wing, Department of CSE National Institute of Technology Karnataka, Surathkal<br>sunilk at 217cs010 at nitk dot edu dot in<br>sunilit dot iimtgn at gmail dot com https://www.linkedin.com/in/sunil-kumar-187710b5/ https://www.researchgate.net/profile/Sunil-Kumar-388 https://sites.google.com/view/vicayana-gaveshana/labs/cps-lab
+# 💫 About Me: 👋 Hi, I’m Sunil Kumar
+**A passionate Researcher || AI Engineer || Developer from India 💞️**
+
+Email Me 👉 ✉️ sunilit.iimtgn@gmail.com, sunilk.217cs010@nitk.edu.in For Collaboration/Project. 😊😊
+
+- **🌱 I’m currently enrolled Research Scholar in the Dept of CSE National Institute of Technology Karnataka, Surathkal**
+- **👀 I’m interested in healthcare cyber-physical systems, formal verification, medical imaging, deep learning, machine learning, DNA protein arrays, Respiratory disorder, cancer research, HPC, and IoT.**
+- **💞️ I’m looking to collaborate on Research Areas**
+- **📫 How to reach me ... Room No. 506, Dr. B.R.B Lab (BRICS), 5th Floor for right-wing, Department of CSE National Institute of Technology Karnataka, Surathkal**
+- **👉 https://www.linkedin.com/in/sunil-kumar-187710b5/, https://sites.google.com/view/vicayana-gaveshana/labs/cps-lab-**
 
 
 ## 🌐 Socials:

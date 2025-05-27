@@ -7,8 +7,8 @@ Email Me 👉 ✉️ sunilit.iimtgn@gmail.com, sunilk.217cs010@nitk.edu.in For C
 - **👀 I’m interested in healthcare cyber-physical systems, formal verification, medical imaging, deep learning, machine learning, DNA protein arrays, Respiratory disorder, cancer research, HPC, and IoT.**
 - **💞️ I’m looking to collaborate on Research Areas**
 - **👯 Researcher from BISAG-N (MeiT), Govt. of India**
-- **📫 How to reach me -> Room No. 506, Dr. B.R.B Lab (BRICS), 5th Floor (right-wing), Department of CSE National Institute of Technology Karnataka, Surathkal, Manglore, India**
-- **👉 https://www.linkedin.com/in/sunil-kumar-187710b5/, https://sites.google.com/view/vicayana-gaveshana/labs/cps-lab#h.2f0wchxc75ej, https://cse.nitk.ac.in/researchscholars/sunil-kumar**
+- **📫 How to reach me -> Room No. 506, Dr. B.R.B Lab (BRICS), 5th Floor (right-wing), Department of CSE National Institute of Technology Karnataka, Surathkal, Manglore -575025, India**
+- **👉 https://sunilit.github.io/, https://www.linkedin.com/in/sunil-kumar-187710b5/, https://sites.google.com/view/vicayana-gaveshana/labs/cps-lab#h.2f0wchxc75ej, https://cse.nitk.ac.in/researchscholars/sunil-kumar**
 
 
 ## 🌐 Socials:

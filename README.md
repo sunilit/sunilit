@@ -29,15 +29,25 @@ My research focuses on developing intelligent, reliable, and computationally eff
 
 - High-Performance Computing (HPC) and Internet of Things (IoT)
 
+# Academic & Professional Affiliation
+
+Current Position: Assistant Professor Grade -I
+Department: Computer Science and Engineering (CSE)
+Institution: Amity University, Noida, India.
+
+Doctoral Qualification: Ph.D. in Computer Science and Engineering
+Institution: National Institute of Technology Karnataka (NITK), Surathkal, India.
+
+Master Qualification: M.Tech in Computer Science and Engineering
+Institution: Dr. B.R Ambedkar National Institute of Technology Jalandhar, India.
+
+Graduate Qualification: B.Tech in Information Technology
+Institution: IIMT College of Engineering, Greater Noida, India.
 
 
-- ** Assistant Professor, Department of Computer Science and Engineering (CSE), Amity University, Noida, India.
-- ** Ph.D. in Computer Science and Engineering from the National Institute of Technology Karnataka (NITK), Surathkal, India.**
-- **👀 I’m interested in healthcare cyber-physical systems, formal verification, medical imaging, deep learning, machine learning, DNA protein arrays, Respiratory disorder, cancer research, HPC, and IoT.**
-- **💞️ I’m looking to collaborate on Research Areas**
-- **👯 Researcher from BISAG-N (MeiT), Govt. of India**
-- **📫 How to reach me -> Room No. 506, Dr. B.R.B Lab (BRICS), 5th Floor (right-wing), Department of CSE National Institute of Technology Karnataka, Surathkal, Manglore -575025, India**
-- **👉 https://sunilit.github.io/, https://www.linkedin.com/in/sunil-kumar-187710b5/, https://sites.google.com/view/vicayana-gaveshana/labs/cps-lab#h.2f0wchxc75ej, https://cse.nitk.ac.in/researchscholars/sunil-kumar**
+Research Association: BISAG-N, Ministry of Electronics and Information Technology (MeitY), Government of India.
+
+
 
 
 ## 🌐 Socials:
@@ -72,3 +82,7 @@ My research focuses on developing intelligent, reliable, and computationally eff
 [![](https://visitcount.itsvg.in/api?id=sunilit&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+📫 How to reach me -> Room No. 506, Dr. B.R.B Lab (BRICS), 5th Floor (right-wing), Department of CSE National Institute of Technology Karnataka, Surathkal, Manglore -575025, India
+👉 https://sunilit.github.io/, https://www.linkedin.com/in/sunil-kumar-187710b5/, https://sites.google.com/view/vicayana-gaveshana/labs/cps-lab#h.2f0wchxc75ej, https://cse.nitk.ac.in/researchscholars/sunil-kumar
+

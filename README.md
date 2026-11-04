@@ -31,17 +31,17 @@ My research focuses on developing intelligent, reliable, and computationally eff
 
 # 👨‍🏫 Academic & Professional Affiliation
 
-Current Position: Assistant Professor Grade -I
-Department: Computer Science and Engineering (CSE)
+Current Position: Assistant Professor Grade -I,
+Department: Computer Science and Engineering (CSE),
 Institution: Amity University, Noida, India.
 
-Doctoral Qualification: Ph.D. in Computer Science and Engineering
+Doctoral Qualification: Ph.D. in Computer Science and Engineering,
 Institution: National Institute of Technology Karnataka (NITK), Surathkal, India.
 
-Master Qualification: M.Tech in Computer Science and Engineering
+Master Qualification: M.Tech in Computer Science and Engineering,
 Institution: Dr. B.R Ambedkar National Institute of Technology Jalandhar, India.
 
-Graduate Qualification: B.Tech in Information Technology
+Graduate Qualification: B.Tech in Information Technology,
 Institution: IIMT College of Engineering, Greater Noida, India.
 
 

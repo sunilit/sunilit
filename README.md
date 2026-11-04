@@ -1,17 +1,15 @@
 # 💫 About Me: 👋 Hi, I’m Dr. Sunil Kumar
 Assistant Professor | Computer Science and Engineering | Artificial Intelligence | Medical Imaging | Healthcare AI | Formal Verification
 
-Assistant Professor, Department of Computer Science and Engineering (CSE), Amity University, Noida, India.
+I am currently working as an Assistant Professor in the Department of Computer Science and Engineering (CSE), Amity University, Noida, India. I hold a Ph.D. in Computer Science and Engineering from the National Institute of Technology Karnataka (NITK), Surathkal, India.
 
-Ph.D. in Computer Science and Engineering from the National Institute of Technology Karnataka (NITK), Surathkal, India.
+My research focuses on developing intelligent, reliable, and computationally efficient solutions at the intersection of Artificial Intelligence, Deep Learning, Medical Imaging, Healthcare Cyber-Physical Systems, and Formal Verification.
 
-I am a passionate researcher and academician working at the intersection of Artificial Intelligence, Healthcare, Medical Imaging, Deep Learning, and Formal Verification. My research aims to develop intelligent, reliable, and computationally efficient solutions for real-world healthcare and interdisciplinary challenges.
-
-📧 Email: skumar32@amity.edu | kumar.93.sunil@gmail.com | sunilk.217cs010@nitk.edu.in |
+📧 Email: skumar32@amity.edu | kumar.93.sunil@gmail.com | sunilk.217cs010@nitk.edu.in
 
 🔬 Research Interests
 
-- Artificial Intelligence (AI) and Deep Learning
+- Artificial Intelligence and Deep Learning
 
 - Medical Imaging and Computer-Aided Diagnosis
 
@@ -29,10 +27,7 @@ I am a passionate researcher and academician working at the intersection of Arti
 
 - Biomedical Image Processing
 
-- High-Performance Computing (HPC)
-
-- Internet of Things (IoT)
-
+- High-Performance Computing (HPC) and Internet of Things (IoT)
 
 
 

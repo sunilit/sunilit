@@ -7,7 +7,7 @@ My research focuses on developing intelligent, reliable, and computationally eff
 
 📧 Email: skumar32@amity.edu | kumar.93.sunil@gmail.com | sunilk.217cs010@nitk.edu.in
 
-🔬 Research Interests
+# 🔬 Research Interests
 
 - Artificial Intelligence and Deep Learning
 

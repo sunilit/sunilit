@@ -71,7 +71,7 @@ Research Association: BISAG-N, Ministry of Electronics and Information Technolog
 
 - Scientific Computing: LaTeX, Anaconda, MLflow
 
-  # 🤝 Research Collaboration & Academic Opportunities
+# 🤝 Research Collaboration & Academic Opportunities
 
 I am interested in establishing national and international research collaborations, joint research projects, and interdisciplinary academic partnerships. I welcome opportunities in:
 

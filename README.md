@@ -83,6 +83,6 @@ Research Association: BISAG-N, Ministry of Electronics and Information Technolog
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-📫 How to reach me -> Room No. 506, Dr. B.R.B Lab (BRICS), 5th Floor (right-wing), Department of CSE National Institute of Technology Karnataka, Surathkal, Manglore -575025, India
+📫 How to reach me -> Room No. E2 402A, A.S.E.T, 4th Floor (right-wing), Department of CSE Amity University, Noida, Sector 125, 201303, Uttar Pradesh, India
 👉 https://sunilit.github.io/, https://www.linkedin.com/in/sunil-kumar-187710b5/, https://sites.google.com/view/vicayana-gaveshana/labs/cps-lab#h.2f0wchxc75ej, https://cse.nitk.ac.in/researchscholars/sunil-kumar
 

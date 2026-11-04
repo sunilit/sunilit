@@ -1,5 +1,5 @@
 # 💫 About Me: 👋 Hi, I’m Dr. Sunil Kumar
-** 👨‍🏫 Assistant Professor || Passionate Researcher || AI Researcher || Medical Imaging || Healthcare AI || Formal Verification || **
+Assistant Professor | Computer Science and Engineering | Artificial Intelligence | Medical Imaging | Healthcare AI | Formal Verification
 
 Assistant Professor, Department of Computer Science and Engineering (CSE), Amity University, Noida, India.
 

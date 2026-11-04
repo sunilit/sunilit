@@ -47,6 +47,20 @@ Institution: IIMT College of Engineering, Greater Noida, India.
 
 Research Association: BISAG-N, Ministry of Electronics and Information Technology (MeitY), Government of India.
 
+# 🤝 Research Collaboration & Academic Opportunities
+
+- I am interested in establishing national and international research collaborations, joint research projects, and interdisciplinary academic partnerships. I welcome opportunities in:
+
+- Postdoctoral Research and Visiting Research Positions.
+
+- Faculty and Academic Research Collaborations.
+
+- Joint Research Publications and Sponsored Research Projects.
+
+- Medical AI, Healthcare Technologies and Formal Verification.
+
+- Collaborative projects with IITs, NITs, IISc and international research universities.
+
 
 
 

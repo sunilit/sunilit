@@ -29,7 +29,7 @@ My research focuses on developing intelligent, reliable, and computationally eff
 
 - High-Performance Computing (HPC) and Internet of Things (IoT)
 
-# Academic & Professional Affiliation
+# 👨‍🏫 Academic & Professional Affiliation
 
 Current Position: Assistant Professor Grade -I
 Department: Computer Science and Engineering (CSE)

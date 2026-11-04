@@ -52,20 +52,6 @@ Research Association: BISAG-N, Ministry of Electronics and Information Technolog
 [![VIDWAN](https://img.shields.io/badge/VIDWAN-Profile-bluestyle=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAbFBMVEUAAAD///////////////////////////////////////////////////////////////////////////////////////////////////////////////////+xHcqXAAAAIHRSTlMAAQIDBAYICQoNEhYaHiElJicoKjE1Oj5AYXJ7f4SSpKqwtbzMztLV2+D/5kdk1AAAAVtJREFUGNPVzUcWgyAUBuAhJBcRMB0Rhv//1+0CpI3hDOOO4tAYINWNoHPPOFccBGU0V+38pXNTZcgpNYQ3zvH3gLE6G6igNpgBQ8tsgFIt2SrBDA3glHEa0zRW0N1LwCCqhglHyoB1VqMvjEMTjAIAKx6Reo9AwCdAAAAAElFTkSuQmCC)](https://vidwan.inflibnet.ac.in/profile/364554) [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-100000?style=flat&logo=Google-Scholar&logoColor=white&labelColor=4285F4)](https://scholar.google.com/citations?user=N45vr-oAAAAJ) [![Web of Science](https://img.shields.io/badge/Web%20of%20Science-Author%20Profile-orange?style=flat&logo=Clarivate&logoColor=white)](https://www.webofscience.com/wos/author/record/DBZ-5459-2022) [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/sunil19203030)
  [![Scopus](https://img.shields.io/badge/Scopus-Author%20Profile-orange?style=flat&logo=Elsevier&logoColor=white)](https://www.scopus.com/authid/detail.uri?authorId=58262702600) [![Loop Profile](https://img.shields.io/badge/Loop-Profile-blue?style=flat&logo=Frontiers&logoColor=white)](https://loop.frontiersin.org/people/3052024/overview) [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?logo=code&logoColor=white)](https://leetcode.com/u/Cubical/)[![Scopus](https://img.shields.io/badge/Scopus-Author%20Profile-orange?style=flat&logo=Elsevier&logoColor=white)](https://www.scopus.com/authid/detail.uri?authorId=57301747500) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/share/1AzGqerz9e/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sunilkr__6) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Sunil-Kumar-33136) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16821476) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sunilit.iimtgn@gmail.com) 
 
-# 🤝 Research Collaboration & Academic Opportunities
-
-I am interested in establishing national and international research collaborations, joint research projects, and interdisciplinary academic partnerships. I welcome opportunities in:
-
-- Postdoctoral Research and Visiting Research Positions.
-
-- Faculty and Academic Research Collaborations.
-
-- Joint Research Publications and Sponsored Research Projects.
-
-- Medical AI, Healthcare Technologies and Formal Verification.
-
-- Collaborative projects with IITs, NITs, IISc and international research universities.
-
 
 # 💻 Technical Expertise
 
@@ -84,6 +70,20 @@ I am interested in establishing national and international research collaboratio
 - Development & DevOps: Git, GitHub, GitLab, CI/CD, GitHub Actions
 
 - Scientific Computing: LaTeX, Anaconda, MLflow
+
+  # 🤝 Research Collaboration & Academic Opportunities
+
+I am interested in establishing national and international research collaborations, joint research projects, and interdisciplinary academic partnerships. I welcome opportunities in:
+
+- Postdoctoral Research and Visiting Research Positions.
+
+- Faculty and Academic Research Collaborations.
+
+- Joint Research Publications and Sponsored Research Projects.
+
+- Medical AI, Healthcare Technologies and Formal Verification.
+
+- Collaborative projects with IITs, NITs, IISc and international research universities.
 
 
 ### ✍️ Random Dev Quote

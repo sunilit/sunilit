@@ -1,9 +1,39 @@
-# 💫 About Me: 👋 Hi, I’m Sunil Kumar
-**🔬 Passionate Researcher || 🤖 AI Enthusiast || 💻 Software Developer from India 💞️**
+# 💫 About Me: 👋 Hi, I’m Dr. Sunil Kumar
+** 👨‍🏫 Assistant Professor || Passionate Researcher || AI Researcher || Medical Imaging || Healthcare AI || Formal Verification || **
 
-Email Me 👉 ✉️ sunilit.iimtgn@gmail.com, sunilk.217cs010@nitk.edu.in For Collaboration/Project.
+I am a passionate researcher and academician working at the intersection of Artificial Intelligence, Healthcare, Medical Imaging, Deep Learning, and Formal Verification. My research aims to develop intelligent, reliable, and computationally efficient solutions for real-world healthcare and interdisciplinary challenges.
 
-- **🌱 I’m currently enrolled Research Scholar in the Dept of CSE National Institute of Technology Karnataka, Surathkal**
+📧 Email: skumar32@amity.edu | kumar.93.sunil@gmail.com | sunilk.217cs010@nitk.edu.in |
+
+🔬 Research Interests
+
+- Artificial Intelligence (AI) and Deep Learning
+
+- Medical Imaging and Computer-Aided Diagnosis
+
+- Healthcare Cyber-Physical Systems
+
+- Formal Methods, Model Checking and Formal Verification
+
+- Machine Learning and Explainable AI
+
+- Genomic Sequence Analysis and Variant Classification
+
+- DNA and Protein Sequence Analysis
+
+- Cancer Research and Respiratory Disorder Analysis
+
+- Biomedical Image Processing
+
+- High-Performance Computing (HPC)
+
+- Internet of Things (IoT)
+
+
+
+
+- ** Assistant Professor, Department of Computer Science and Engineering (CSE), Amity University, Noida, India.
+- ** Ph.D. in Computer Science and Engineering from the National Institute of Technology Karnataka (NITK), Surathkal, India.**
 - **👀 I’m interested in healthcare cyber-physical systems, formal verification, medical imaging, deep learning, machine learning, DNA protein arrays, Respiratory disorder, cancer research, HPC, and IoT.**
 - **💞️ I’m looking to collaborate on Research Areas**
 - **👯 Researcher from BISAG-N (MeiT), Govt. of India**
